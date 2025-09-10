@@ -51,7 +51,7 @@ Casualty Severity
 Fatal: 7,135 (1.7%)
 Serious: 59,312 (14.2%)
 Slight: 351,436 (84.1%)
-👉 Majority of accidents result in slight injuries.
+ Majority of accidents result in slight injuries.
 Vehicle Type
 Cars contribute 81.8% of casualties (333,485) → highest risk category.
 Vans (33,472), Bicycles (23,466), and Buses (12,708) follow.
@@ -61,15 +61,15 @@ Dual Carriageway (67.4k) and Roundabout (26.8k) much lower.
 Road Surface
 Dry roads: 279,445 casualties.
 Wet roads: 115,261 casualties.
-👉 Most accidents happen on normal/dry conditions, not due to bad weather.
+ Most accidents happen on normal/dry conditions, not due to bad weather.
 Area Analysis
 Urban: 255.9k (61%)
 Rural: 162k (39%)
-👉 Higher traffic density in urban areas → more accidents.
+ Higher traffic density in urban areas → more accidents.
 Light Condition
 Daylight: 305k (73%)
 Dark: 113k (27%)
-👉 Accidents are mostly daytime-related due to high traffic flow.
+ Accidents are mostly daytime-related due to high traffic flow.
 Monthly Trend
 Accident numbers peak in January & November.
 Lowest in December, likely due to holidays or restricted movement.
